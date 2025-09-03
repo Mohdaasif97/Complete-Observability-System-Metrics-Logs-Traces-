@@ -11,7 +11,7 @@ I created this integrated monitoring stack to showcase complete application obse
 - Docker & Docker Compose
 - Node.js
 - npm 
-- Grafana,promotheus,loki
+- Grafana,prometheus,loki
 
 ## Quick Start
 
